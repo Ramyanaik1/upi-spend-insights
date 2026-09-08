@@ -1,5 +1,3 @@
-# upi-spend-insights
-End-to-end data analysis project using Python, SQL, Excel &amp; Power BI on personal UPI transaction data.
 # 💸 UPI Spend Insights
 
 **End-to-end data analysis project** exploring personal UPI (Unified Payments Interface) transaction data — from raw data extraction to an interactive Power BI dashboard.
